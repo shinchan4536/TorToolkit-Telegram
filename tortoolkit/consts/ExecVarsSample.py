@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "7f41d8510f9543b9fc6e6b4cbd8bd6f1"
+        API_ID = 7001570
+        BOT_TOKEN = "2125742989:AAHZpUfN7M0ReGQCbypEdocSi5-grspDo4w"
+        BASE_URL_OF_BOT = "t.me/Master_D_Blaster_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [1202365960,-1001169740139]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
